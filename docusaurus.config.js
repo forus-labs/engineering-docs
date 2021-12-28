@@ -9,8 +9,8 @@ const config = {
   title: 'Forus Labs\' Engineering Documentation',
   tagline: 'Unlocking your potential',
   url: 'https://foruslabs.io',
-  baseUrl: '/',
-  onBrokenLinks: 'warn',
+  baseUrl: '/engineering-docs',
+  onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Forus Labs', // Usually your GitHub org/user name.

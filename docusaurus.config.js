@@ -9,7 +9,7 @@ const config = {
   title: 'Forus Labs\' Engineering Documentation',
   tagline: 'Unlocking your potential',
   url: 'https://foruslabs.io',
-  baseUrl: '/engineering-docs/',
+  baseUrl: '/engineering-docs/', // TODO: Get permanent URL
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -71,8 +71,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Docus',
+                to: '/docs',
               },
             ],
           },
@@ -96,11 +96,11 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
+//              {
+//                label: 'Blog',
+//                to: '/blog',
+//              },
+//              {
                 label: 'GitHub',
                 href: 'https://github.com/forus-labs',
               },

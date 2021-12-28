@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Forus Labs\' Engineering Documentation',
+  title: 'Forus Labs\' Engineering Docs',
   tagline: 'Unlocking your potential',
   url: 'https://foruslabs.io',
   baseUrl: '/engineering-docs/', // TODO: Get permanent URL
@@ -43,7 +43,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Forus Labs\'s Engineering Documentation',
+        title: 'Forus Labs\' Engineering Docs',
         logo: {
           alt: 'Forus Labs Logo',
           src: 'img/logo-light.svg',

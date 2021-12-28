@@ -10,7 +10,7 @@ const config = {
   tagline: 'Unlocking your potential',
   url: 'https://foruslabs.io',
   baseUrl: '/engineering-docs/', // TODO: Get permanent URL
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Forus Labs', // Usually your GitHub org/user name.

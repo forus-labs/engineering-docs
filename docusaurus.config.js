@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Forus Labs\' Engineering Documentation',
   tagline: 'Unlocking your potential',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://foruslabs.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -58,7 +58,7 @@ const config = {
           },
 //          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/forus-labs',
             label: 'GitHub',
             position: 'right',
           },

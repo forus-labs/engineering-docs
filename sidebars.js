@@ -34,11 +34,9 @@ module.exports = {
             type: 'category',
             label: 'Getting Started',
             items: [
-//              'manual-installation',
-//              'manual-installation/android',
-//              'manual-installation/ios',
-//              'manual-installation/macos',
-//              'manual-installation/web',
+                'getting-started/first-steps',
+                'getting-started/a-quick-tour',
+                'getting-started/what-to-expect',
             ],
         },
         {
@@ -46,12 +44,11 @@ module.exports = {
             label: 'Collaboration',
             items: [
                 'collaboration/git-gud',
+                'collaboration/development-etiquette',
                 'collaboration/crafting-a-good-pull-request',
-                'collaboration/gentlemens-etiquette',
-//              'manual-installation/android',
-//              'manual-installation/ios',
-//              'manual-installation/macos',
-//              'manual-installation/web',
+                'collaboration/reviewing-a-pull-request',
+                'collaboration/common-pull-request-issues',
+                'collaboration/pair-programming',
             ],
         },
         {
@@ -69,7 +66,7 @@ module.exports = {
                 },
             ],
         },
-
+        'further-reading',
     ]
 //        'Home': {
 //        },

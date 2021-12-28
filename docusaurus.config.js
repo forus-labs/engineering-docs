@@ -9,7 +9,7 @@ const config = {
   title: 'Forus Labs\' Engineering Documentation',
   tagline: 'Unlocking your potential',
   url: 'https://foruslabs.io',
-  baseUrl: '/engineering-docs',
+  baseUrl: '/engineering-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

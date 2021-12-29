@@ -40,3 +40,11 @@ To avoid such situations, it is recommended for developers to perform a cursory 
 should address common mistakes such as grammatical and spelling errors.
 
 See [common pull request issues](./common-pull-request-issues.md) for more information.
+
+## Submitting a Pull Request
+
+![Create a Pull Request Flowchart](/img/collaboration/create-pull-request-flowchart.png)
+<p class = "caption">Flowchart for creating a pull request</p>
+
+See [GitHub's documentation](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
+for more information on linking issues to pull request.

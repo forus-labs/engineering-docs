@@ -37,10 +37,7 @@ module.exports = {
             type: 'category',
             label: 'Style Guides',
             items: [
-//              'manual-installation',
-//              'manual-installation/android',
-//              'manual-installation/ios',
-//              'manual-installation/macos',
+                'style-guides/dart-flutter-style-guide',
                 {
                     type: 'link',
                     label: 'Technical Writing Guide',

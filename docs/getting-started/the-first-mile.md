@@ -24,12 +24,6 @@ time pair programming with your on-boarding buddy as well as the rest of the tea
 
 ## Your Development Environment
 
-### Your Device
-
-We strongly encourage you to bring your own laptop. It's a plus if you are using a MacBook as you might need to test code
-on an iOS emulator. However, it's perfectly fine if you do not own a laptop, just reach out to us in advance so that we can
-make the necessary preparations!
-
 ### Source Version Control
 
 We use a GitHub organization to manage our codebase. You will need to create a GitHub account if you don't already have one.
@@ -52,8 +46,6 @@ to install Dart separately. We strongly recommend using [Android Studio](https:/
 since it is more feature-rich. However, some of us prefer [Visual Studio Code](https://code.visualstudio.com/).
 
 ## Learning Resources
-
-Our documentation can be found at [foruslabs.io](https://foruslabs.io).
 
 ### Backend Development
 * [Official gRPC Documentation](https://grpc.io/docs/)

@@ -21,6 +21,14 @@ Similarly, if a pull request is too large, the reviewer should request that the 
 See Google's [The Standard of Code Review](https://google.github.io/eng-practices/review/reviewer/standard.html) and 
 [What to Look for in a Code Review](https://google.github.io/eng-practices/review/reviewer/looking-for.html) for more information.
 
+## Tooling for Performing a Code Review
+
+The use of GitHub's in-built pull request review is discouraged. We find the editor to be inadequate for finding larger and
+structural projects. Instead, we recommend Android Studio/IntelliJ's in-built pull request review tooling.
+
+![IntelliJ Code Review](/img/collaboration/intellij-code-review.png)
+<p class = "caption">IntelliJ's in-built code review editor</p>
+
 ## Conflict Resolution
 
 It is recommended that the pull request author and reviewer conduct face-to-face meeting or video call to discuss the changes

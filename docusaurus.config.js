@@ -100,6 +100,7 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Forus Labs Pte Ltd. Built with Docusaurus.`,
       },
       prism: {
+        additionalLanguages: ['dart'],
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },

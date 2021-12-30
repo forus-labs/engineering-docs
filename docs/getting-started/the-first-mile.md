@@ -17,7 +17,7 @@ An on-boarding buddy will be assigned to you as part of our on-boarding process.
 proper introduction to the team and your on-boarding buddy. Make sure you're free for lunch as we will have a welcome lunch with the team.
 Subsequently, you'll be spending most of the day reading through our documentation and setting up your development environment.
 
-### First two week
+### First Two Weeks
 
 Most of your first two week will be spent discovering our technologies, process and culture. You will also be spending some
 time pair programming with your on-boarding buddy as well as the rest of the team.

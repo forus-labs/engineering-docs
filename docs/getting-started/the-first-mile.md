@@ -53,6 +53,7 @@ since it is more feature-rich. However, some of us prefer [Visual Studio Code](h
 * [Official PostgreSQL Reference](https://www.postgresql.org/docs/14/index.html)
 
 ### Mobile Development
+* [Dart Null Safety](https://dart.dev/null-safety)
 * [Official Dart Documentation](https://dart.dev/guides)
 * [Official Flutter Documentation](https://docs.flutter.dev/)
 * [Flutter's Tutorial Videos](https://www.youtube.com/watch?v=4AoFA19gbLo&list=PLjxrf2q8roU3wk7CDw4RfV3mEwOJbjx1k)

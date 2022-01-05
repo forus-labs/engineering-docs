@@ -23,12 +23,11 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/forus-labs/engineering-docs',
+          editUrl: 'https://github.com/forus-labs/engineering-docs/blob/master',
         },
         blog: {
           showReadingTime: true,
-          editUrl:
-            'https://github.com/forus-labs/engineering-docs',
+          editUrl: 'https://github.com/forus-labs/engineering-docs/blob/master',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

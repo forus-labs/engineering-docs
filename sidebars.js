@@ -45,6 +45,7 @@ module.exports = {
                 },
             ],
         },
+        'troubleshooting-common-issues',
         'further-reading',
     ],
 };
